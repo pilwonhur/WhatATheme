@@ -7,13 +7,13 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: What A Theme
+title: HUR Group
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description: Welcome to HUR Group at GIST
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: HUR Group, Mechanical Engineering, GIST, Pilwon Hur, Free Energy Principle
 # URL for the Image of custom Favicon
 favicon-url: 
 
@@ -22,17 +22,17 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
+email: pilwonhur@gist.ac.kr
+facebook_username: 
+twitter_username: 
+instagram_username: 
+linkedin_username: 
+github_username:  
+youtube_channel_id: 
+reddit_username: 
+behance_username: 
+dribbble_username: 
+spotify_username: 
 
 # Google Analytics
 google-analytics: UA-163806439-1
@@ -41,11 +41,12 @@ google-analytics: UA-163806439-1
 disqus-shortname: thedevslot
 
 # Name of the Author
-author-name: TheDevsLot
+author-name: Pilwon Hur
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: https://hurgroup.net/sub/external/data/research_scheme.png
+# https://hurgroup.net/sub/external/data/pilwonhur.jpg
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+author-about: The HUR group, established in September 2014 with Dr. Pilwon Hur's appointment as an Assistant Professor in the Department of Mechanical Engineering at Texas A&M University, has since evolved significantly. By December 2020, Dr. Hur transitioned to the School of Mechanical Engineering at GIST in South Korea, assuming the role of Associate Professor. The acronym "HUR" encapsulates various meanings, reflecting the group's dynamic focus; 1) HUman Rehabilitation, emphasizing the human-centric approach to rehabilitation; 2) Humans Union Robots, symbolizing the synergy between humans and robots; 3) Humans, You (U), and Robots, highlighting the collaborative relationship; and 4) it represents Dr. Hur's last name, underscoring his foundational role in the group. <br><br> The primary objectives of the HUR group are twofold. First, they aim to unravel the complexities of how the central nervous system orchestrates human sensorimotor behavior in a Bayesian optimal manner. Second, they are dedicated to the development and control of robots designed for autonomous and seamless interaction with humans, serving multiple roles such as assistance and rehabilitation. The accompanying schematic provides a comprehensive overview of the group's research areas and key focal points.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/thedevslot
 
@@ -61,6 +62,8 @@ plugins:
 
 # Permalink
 permalink: "blog/:title"
+
+port: 8080
 
 # Compress
 compress_html:
